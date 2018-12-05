@@ -1,0 +1,11 @@
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\obj\Debug\netcoreapp2.1\ProjetoAereo.csprojAssemblyReference.cache
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\obj\Debug\netcoreapp2.1\ProjetoAereo.csproj.CoreCompileInputs.cache
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\obj\Debug\netcoreapp2.1\ProjetoAereo.AssemblyInfoInputs.cache
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\obj\Debug\netcoreapp2.1\ProjetoAereo.AssemblyInfo.cs
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\bin\Debug\netcoreapp2.1\ProjetoAereo.deps.json
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\bin\Debug\netcoreapp2.1\ProjetoAereo.runtimeconfig.json
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\bin\Debug\netcoreapp2.1\ProjetoAereo.runtimeconfig.dev.json
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\bin\Debug\netcoreapp2.1\ProjetoAereo.dll
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\bin\Debug\netcoreapp2.1\ProjetoAereo.pdb
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\obj\Debug\netcoreapp2.1\ProjetoAereo.dll
+C:\Users\snake\Source\Repos\ProjetoAereo\ProjetoAereo\obj\Debug\netcoreapp2.1\ProjetoAereo.pdb
